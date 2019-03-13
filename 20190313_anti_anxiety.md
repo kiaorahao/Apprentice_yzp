@@ -46,7 +46,7 @@
 
 ### 1\. 组块方法和论证结构：
 
-目前看到阳老师文章组块有三种方法：第一种是每个组块设定特定标题，如[三十六惑](https://mp.weixin.qq.com/s/RCQXIKWSx_q-BOu6z442Jw)，第二种是基于图片PPT自然划分内容组块，如[阳志平：认知科学给教育工作者的启发_网易订阅](http://dy.163.com/v2/article/detail/DOGTB8BN0516CB2P.html)，第三种就是本文采用的数字组块。
+目前看到阳老师文章组块有三种方法：第一种是每个组块设定特定标题，如[三十六惑](https://mp.weixin.qq.com/s/RCQXIKWSx_q-BOu6z442Jw)，第二种是基于图片PPT自然划分内容组块，如[阳志平：认知科学给教育工作者的启发_网易订阅](http://dy.163.com/v2/article/detail/DOGTB8BN0516CB2P.html)，第三种是数字编号组块，如[心智工具箱](https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&mid=2652149909&idx=1&sn=88501bf3d4efc96fd9029367d5837192&chksm=84f0b3c3b3873ad5aafb9258e1d3128e3ee6efd3515c432682283ff4926c4a1cd91b8c87c9e1&scene=21#wechat_redirect)，这次修改的文字稿最终即采用这种。
 
 我们一开始计划用第二种，阳老师的反馈是去掉不必要的PPT，个人理解第二种采用的标准之一，应该是PPT以图为主、言简意赅，能体现每个对应组块的核心内容，文字部分能和PPT配图很好呼应。
 
