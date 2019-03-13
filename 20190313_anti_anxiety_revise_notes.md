@@ -23,7 +23,7 @@
 
 ### To-Be：
 
-- 过一遍阳老师提的建议，形成下一个todo list。
+- 过一遍[阳老师20190307 建议](https://github.com/kiaorahao/awesome_tools/issues/4#issuecomment-472364505)，形成下一个todo list。
 - 合并整理**演讲稿改文字稿修改原则**，对应例句以编号附在后面。
 - 演讲稿改文字稿 练习方法总结：反向扩字
 
